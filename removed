@@ -3183,5 +3183,11 @@
     "reason": "Repository is archived",
     "removal_type": "remove",
     "link": "https://github.com/hacs/default/pull/13765"
+  },
+  {
+    "repository": "ciejer/metservice-weather",
+    "reason": "Moved to nagelm/metservice-weather, the same integration. Follow https://github.com/nagelm/metservice-weather#moving-over-from-ciejer to switch.",
+    "removal_type": "replaced",
+    "link": "https://github.com/hacs/integration/issues/5651"
   }
 ]
